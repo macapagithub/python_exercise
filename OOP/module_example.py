@@ -1,4 +1,4 @@
-from pants import Pants
+from OOP.pants import Pants
 
 def check_results():
     pants = Pants('red', 35, 36, 15.12)
